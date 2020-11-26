@@ -1,0 +1,9 @@
+<article class="summary">
+  <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+
+  {{ .Summary }}
+
+  <footer class="summary__meta">
+    <time>{{ .Date.Format "02.01.2006" }}</time>
+  </footer>
+</article>
