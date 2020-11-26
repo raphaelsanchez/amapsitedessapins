@@ -1,7 +1,7 @@
 ---
 title: "Sample Post 1"
 date: 2020-11-25T11:59:45+01:00
-draft: true
+draft: false
 ---
 
 Sed et eveniet voluptates temporibus ullam eaque. Cum iure ea repudiandae aspernatur omnis qui numquam. Necessitatibus voluptatem consectetur necessitatibus nisi. Non natus in voluptatem ipsa sapiente voluptatem.
