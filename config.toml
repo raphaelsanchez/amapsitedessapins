@@ -1,4 +1,4 @@
-# baseURL = "http://example.org/"
+baseURL = "https://raphaelsancheznws.netlify.app/"
 languageCode = "fr-FR"
 title = "AMAP de Sapins"
 theme = "nws-hugo-starter"
